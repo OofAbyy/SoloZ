@@ -68,7 +68,7 @@
   content: "css by Abyy";
   display: block;
   font-size: 24px;
-  color: var(--accent) !important;
+  color: var(--border) !important;
 }
 .lC-cube {
   justify-content: flex-start;
